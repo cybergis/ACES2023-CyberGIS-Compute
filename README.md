@@ -1,6 +1,6 @@
 # ACES Workshop 2023: CyberGIS-Compute
 
-[View the notebook on CyberGISX Hub](https://cybergisxhub.cigi.illinois.edu/notebook/pysal-access-compute-example/).
+[View the notebook on CyberGISX Hub](https://cybergisxhub.cigi.illinois.edu/notebook/aces-workshop-2023-cybergis-compute/).
 
 **Authors:** Alexander Michels, Furqan Baig, Taylor Ziegler, Zimo Xiao, Mit Kotak, Anand Padmanabhan, Zhiyu Li, and Shaowen Wang
 
